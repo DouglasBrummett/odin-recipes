@@ -1,1 +1,1 @@
-Housing projects for The Odin Project
+Simple recipe project from The Odin Project
